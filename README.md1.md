@@ -1,34 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>README - Simon Say Game 🕹️</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 2rem;
-      line-height: 1.6;
-      background-color: #f8f9fa;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    img {
-      max-width: 100%;
-      border: 1px solid #ccc;
-      margin: 1rem 0;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 3px;
-    }
-  </style>
-</head>
-<body>
 
 <h1>🎮 Simon Say Game</h1>
 
@@ -71,5 +40,4 @@
 <h2>📬 Feedback</h2>
 <p>Feel free to raise an issue or submit a pull request if you'd like to improve the game!</p>
 
-</body>
-</html>
+<h2>~ Rajveer Bishnoi</h2>
