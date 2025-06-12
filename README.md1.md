@@ -35,7 +35,7 @@
 <p>A fun and interactive JavaScript game where you have to follow the sequence of colors and repeat it correctly to win!</p>
 
 <h2>📸 Preview</h2>
-<img src="/Users/rajveerbishnoi/Desktop/webDev/Apna College/Mini-Project & Projects/Simon Says Game/Screenshot 2025-06-13 at 12.43.48 AM.png" alt="Simon Says Game Preview" />
+<img src="Screenshot.png" alt="Simon Says Game Preview" />
 
 <h2>🚀 Features</h2>
 <ul>
