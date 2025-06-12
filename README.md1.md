@@ -1,8 +1,8 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>README - Simon Say Game 🕹️</title>
   <style>
     body {
@@ -30,46 +30,46 @@
 </head>
 <body>
 
-  <h1>🎮 Simon Say Game</h1>
-  <p>A fun color memory game built using HTML, CSS, and JavaScript!</p>
+<h1>🎮 Simon Say Game</h1>
 
-  <h2>📌 Features</h2>
-  <ul>
-    <li>Interactive gameplay with increasing levels</li>
-    <li>Color buttons flash in sequence</li>
-    <li>Tracks user input and compares with the game sequence</li>
-    <li>Displays score and restart prompt on game over</li>
-  </ul>
+<p>A fun and interactive JavaScript game where you have to follow the sequence of colors and repeat it correctly to win!</p>
 
-  <h2>▶️ How to Play</h2>
-  <ol>
-    <li>Press any key to start the game.</li>
-    <li>Watch the flashing color pattern.</li>
-    <li>Repeat the sequence by clicking the buttons in the correct order.</li>
-    <li>The sequence grows each level. Try to keep up!</li>
-  </ol>
+<h2>📸 Preview</h2>
+<img src="/Users/rajveerbishnoi/Desktop/webDev/Apna College/Mini-Project & Projects/Simon Says Game/Screenshot 2025-06-13 at 12.43.48 AM.png" alt="Simon Says Game Preview" />
 
-  <h2>🖼️ Preview</h2>
-  <p>Below are screenshots of the game:</p>
-  <img src="screenshot1.png" alt="Simon Game Screenshot 1">
-  <img src="screenshot2.png" alt="Simon Game Screenshot 2">
+<h2>🚀 Features</h2>
+<ul>
+  <li>Dynamic sequence generation</li>
+  <li>Level tracking</li>
+  <li>Simple UI with color-coded buttons</li>
+  <li>Responsive gameplay logic</li>
+</ul>
 
-  <h2>📁 Project Structure</h2>
-  <ul>
-    <li><code>index.html</code> — Main HTML file</li>
-    <li><code>style.css</code> — Styling and layout</li>
-    <li><code>script.js</code> — Game logic</li>
-  </ul>
+<h2>📁 Project Structure</h2>
+<pre>
+.
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+</pre>
 
-  <h2>📦 How to Run</h2>
-  <p>Simply open <code>index.html</code> in your web browser.</p>
+<h2>🔧 How to Run</h2>
+<ol>
+  <li>Clone the repo: <code>git clone https://github.com/RAJVEER42/JavaScript_Projects.git</code></li>
+  <li>Open <code>index.html</code> in your browser</li>
+  <li>Enjoy the game!</li>
+</ol>
 
-  <h2>✍️ Author</h2>
-  <p>Made with ❤️ by [Your Name]</p>
+<h2>🛠️ Technologies Used</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript (Vanilla)</li>
+</ul>
+
+<h2>📬 Feedback</h2>
+<p>Feel free to raise an issue or submit a pull request if you'd like to improve the game!</p>
 
 </body>
 </html>
-
-<h4> Author : Rajveer Bishnoi </h4>
-
-
