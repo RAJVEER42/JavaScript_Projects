@@ -27,6 +27,10 @@ Background_color/
 
 ```
 ---
+## IMAGE 
+
+![Background Color Change Preview](image.png)
+---
 
 ## 💡 How to Use
 
