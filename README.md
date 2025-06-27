@@ -30,9 +30,7 @@ A compact yet beautifully executed background color changer. Designed for elegan
 🪶 Feather-light code footprint
 
 🧾 Project Architecture
-bash
-Copy
-Edit
+
 JavaScript_Projects/
 │
 ├── Simon_say_game/
