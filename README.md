@@ -45,8 +45,7 @@ JavaScript_Projects/
     ├── styles.css         # Styling rules
     └── image.png          # Preview image
 
---
-🧠 Skills Demonstrated
+ ## Skills Demonstrated
 
 ✅ Event-driven programming
 
