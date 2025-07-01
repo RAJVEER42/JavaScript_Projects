@@ -9,8 +9,6 @@ A tribute to the timeless classic—this Simon Says game blends modern styling w
 
 ⚡ Fast-paced memory challenge
 
-🔊 Audio feedback & visual pulses
-
 💻 Fully responsive and minimal UI
 
 📸 Game Preview
@@ -60,9 +58,6 @@ JavaScript_Projects/
 🛠️ Want to Contribute?
 Feel free to fork, explore, improve or remix. PRs are welcome, and ideas are always celebrated.
 
-bash
-Copy
-Edit
 git clone https://github.com/RAJVEER42/JavaScript_Projects.git
 cd JavaScript_Projects
 "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
