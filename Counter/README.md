@@ -1,25 +1,37 @@
-# 🧮 Counter Project 
+<h1 align="center">🧮 Counter Project</h1>
 
-A simple, interactive counter web app built with **HTML**, **CSS**, and **JavaScript**.
+<p align="center">
+  A simple, interactive counter web app built with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
+</p>
+
+---
 
 ## 🔧 Features
 
-- ➕ Increase, ➖ Decrease, or 🔁 Reset the counter value
+- ➕ Increase, ➖ Decrease, or 🔁 Reset the counter value  
 - 🎨 Dynamic text color:
-  - ✅ Green for positive numbers
-  - ❌ Red for negative numbers
-  - ⚪ White for zero
+  - ✅ Green for positive numbers  
+  - ❌ Red for negative numbers  
+  - ⚪ White for zero  
 - 📱 Responsive and clean UI
+
+---
 
 ## 📸 Preview
 
-![Counter Screenshot](photo.png)
+<p align="center">
+  <img src="photo.png" alt="Counter Screenshot" width="400">
+</p>
+
+---
 
 ## 🛠️ Technologies Used
 
-- 🏗️ HTML5
-- 🎨 CSS3 (with custom properties and responsive styling)
+- 🏗️ HTML5  
+- 🎨 CSS3 (with custom properties and responsive styling)  
 - 🧠 Vanilla JavaScript (DOM manipulation and event handling)
+
+---
 
 ## 🚀 Getting Started
 
@@ -34,6 +46,8 @@ cd JavaScript_Projects/Counter
 
 Open the `index.html` file in your favorite browser.
 
+---
+
 ## 📁 Project Structure
 
 ```
@@ -44,11 +58,18 @@ Counter/
 └── README.md       # 📘 Project documentation
 ```
 
+---
+
 ## ✍️ Author
 
-**Rajveer Bishnoi**  
-🌐 [GitHub Profile](https://github.com/RAJVEER42)
+<p align="center">
+  <strong>Rajveer Bishnoi</strong>  
+  <br/>
+  🌐 <a href="https://github.com/RAJVEER42">GitHub Profile</a>
+</p>
 
 ---
 
-🤝 Feel free to fork, star ⭐, and contribute to improve this project!
+<p align="center">
+  🤝 Feel free to fork, star ⭐, and contribute to improve this project!
+</p>
