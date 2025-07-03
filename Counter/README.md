@@ -1,4 +1,4 @@
-# 🧮 Counter Project
+# 🧮 Counter Project (...-3, -2, -1, 0, 1, 2, 3...)
 
 A simple, interactive counter web app built with **HTML**, **CSS**, and **JavaScript**.
 
