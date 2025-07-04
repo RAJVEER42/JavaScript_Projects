@@ -55,7 +55,7 @@ JavaScript_Projects/
 
 👑 Crafted With Precision By
 <p align="center"> <strong>RAJVEER42</strong><br> 🧑‍💻 Developer • 🧠 Thinker • 🎨 UI Enthusiast<br> <a href="https://github.com/RAJVEER42" target="_blank">🌐 GitHub</a> </p>
-🛠️ Want to Contribute?
+🛠 Want to Contribute?
 Feel free to fork, explore, improve or remix. PRs are welcome, and ideas are always celebrated.
 
 git clone https://github.com/RAJVEER42/JavaScript_Projects.git
