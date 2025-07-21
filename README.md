@@ -14,10 +14,11 @@ A tribute to the timeless classic—this Simon Says game blends modern styling w
 
 📸 Game Preview
 <p align="center"> <img src="./Simon_say_game/Screenshot.png" alt="Simon Game Screenshot" width="480" style="border-radius:12px;"> </p>
-🌈 Background Color Changer — Elegance in a Single Click
+<div align="center"> 🌈 Background Color Changer — Elegance in a Single Click
 "A gentle intro to JS, but with flair."
 
 A compact yet beautifully executed background color changer. Designed for elegance, built for clarity—perfect for beginners and lovers of clean UI.
+</div>
 
 🎨 Core Highlights
 🎲 Random HEX color generation
