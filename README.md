@@ -5,6 +5,8 @@
 A tribute to the timeless classic—this Simon Says game blends modern styling with responsive mechanics. Each interaction is crisp, intuitive, and rewarding.
 </div>
 
+---
+
 🧩 Key Features
 🎯 Progressive color-sequence generation
 
