@@ -1,8 +1,9 @@
 <h1 align="center">✨ JavaScript Atelier</h1> <p align="center"> <img src="https://img.shields.io/badge/JavaScript-Projects-000000?style=flat&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/github/last-commit/RAJVEER42/JavaScript_Projects?style=flat&color=blueviolet"> <img src="https://img.shields.io/github/languages/count/RAJVEER42/JavaScript_Projects?style=flat&color=teal"> </p> <p align="center"> <b>A curated set of micro-projects built in Vanilla JavaScript, styled to perfection, and designed to teach, inspire, and impress.</b> </p>
-🎮 Simon Say Game — Refined Memory, Reimagined
+<div align="center">🎮 Simon Say Game — Refined Memory, Reimagined
 "Where rhythm meets logic, and memory becomes the game."
 
 A tribute to the timeless classic—this Simon Says game blends modern styling with responsive mechanics. Each interaction is crisp, intuitive, and rewarding.
+</div>
 
 🧩 Key Features
 🎯 Progressive color-sequence generation
