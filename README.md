@@ -53,14 +53,16 @@ JavaScript_Projects/
 
 ✅ Component-style separation of concerns
 
-👑 Crafted With Precision By
+---
+
+👑 Crafted With Precision By :- 
 <p align="center"> <strong>RAJVEER42</strong><br> 🧑‍💻 Developer • 🧠 Thinker • 🎨 UI Enthusiast<br> <a href="https://github.com/RAJVEER42" target="_blank">🌐 GitHub</a> </p>
-🛠 Want to Contribute?
+<div align="center">🛠 Want to Contribute?
 Feel free to fork, explore, improve or remix. PRs are welcome, and ideas are always celebrated.
 
 git clone https://github.com/RAJVEER42/JavaScript_Projects.git
 cd JavaScript_Projects
 "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 — Antoine de Saint-Exupéry
-
+</div>
 
